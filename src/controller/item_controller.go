@@ -3,8 +3,8 @@ package controller
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/callingsid/shopping_product/domain"
-	"github.com/callingsid/shopping_product/service"
+	"github.com/callingsid/shopping_product/src/domain"
+	"github.com/callingsid/shopping_product/src/service"
 	domain2 "github.com/callingsid/shopping_utils/domain"
 	"github.com/callingsid/shopping_utils/logger"
 	"github.com/callingsid/shopping_utils/queue"

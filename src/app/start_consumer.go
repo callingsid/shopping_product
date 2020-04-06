@@ -3,7 +3,7 @@ package app
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/callingsid/shopping_product/controller"
+	"github.com/callingsid/shopping_product/src/controller"
 	"github.com/callingsid/shopping_utils/domain"
 	"github.com/callingsid/shopping_utils/logger"
 	"github.com/callingsid/shopping_utils/queue"

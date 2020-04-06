@@ -1,7 +1,7 @@
 package service
 
 import (
-	"github.com/callingsid/shopping_product/domain"
+	"github.com/callingsid/shopping_product/src/domain"
 	"github.com/callingsid/shopping_utils/rest_errors"
 	"gopkg.in/mgo.v2/bson"
 )

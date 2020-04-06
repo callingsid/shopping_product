@@ -1,8 +1,8 @@
-package main
+package src
 
 import (
 	"fmt"
-	"github.com/callingsid/shopping_product/app"
+	"github.com/callingsid/shopping_product/src/app"
 )
 
 
