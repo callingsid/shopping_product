@@ -1,4 +1,4 @@
-module github.com/callingsid/shopping_product
+module github.com/callingsid/shopping_product/src
 
 go 1.13
 
