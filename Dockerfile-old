@@ -9,9 +9,9 @@ ENV WORKPATH=$APP_PATH/src
 COPY src $WORKPATH
 WORKDIR $WORKPATH
 
-RUN CGO_ENABLED=0 GOOS=linux GOARCH=amd64 go build
+RUN  go build main.go
 
-CMD["./main.exe"]
+CMD ["./main.exe"]
 
 
 
