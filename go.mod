@@ -1,9 +1,3 @@
 module github.com/callingsid/shopping_product
 
 go 1.13
-
-require (
-	github.com/callingsid/shopping_utils v0.0.0-20200411131340-be3b1ead9c6d
-	github.com/mitchellh/mapstructure v1.2.2
-	gopkg.in/mgo.v2 v2.0.0-20190816093944-a6b53ec6cb22
-)
