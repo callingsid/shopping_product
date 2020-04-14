@@ -14,6 +14,10 @@ import (
 func startMessageConsumer() {
 	topics := []string{"items"}
 	consumer, errors := queue.Client.StartConsumer(topics)
+	if errors != nil {
+		logger.Info("failed to get kafka client handle")
+		panic(errors)
+	}
 
 	signals := make(chan os.Signal, 1)
 	signal.Notify(signals, os.Interrupt)
