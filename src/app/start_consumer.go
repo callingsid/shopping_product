@@ -36,7 +36,7 @@ func startMessageConsumer() {
 				err := json.Unmarshal(msg.Value, &request)
 				if err != nil {
 					logger.Error("consumer unmarshal err", err)
-					panic(err)
+					//panic(err)
 				}
 				logger.Info(fmt.Sprintf("The Topic consumed  is %s", request.FwdTopic))
 				go processTopics(request)

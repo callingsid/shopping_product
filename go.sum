@@ -2,10 +2,8 @@ github.com/BurntSushi/toml v0.3.1/go.mod h1:xHWCNGjB5oqiDr8zfno3MHue2Ht5sIBksp03
 github.com/Shopify/sarama v1.26.1 h1:3jnfWKD7gVwbB1KSy/lE0szA9duPuSFLViK0o/d3DgA=
 github.com/Shopify/sarama v1.26.1/go.mod h1:NbSGBSSndYaIhRcBtY9V0U7AyH+x71bG668AuWys/yU=
 github.com/Shopify/toxiproxy v2.1.4+incompatible/go.mod h1:OXgGpZ6Cli1/URJOF1DMxUHB2q5Ap20/P/eIdh4G0pI=
-github.com/callingsid/shopping_utils v0.0.0-20200415105908-f5aaf0e58f84 h1:6zIqZ9mH5eEQtB2yTj6SbLQMVKcQHbZ+6yAriadAvcw=
-github.com/callingsid/shopping_utils v0.0.0-20200415105908-f5aaf0e58f84/go.mod h1:DM8M8fKYETauagQW+HhrUO78dlfjWe5NzwaGjEvI1f4=
-github.com/callingsid/shopping_utils v0.0.0-20200415112043-2feb82ddafc6 h1:Gg1RG3qDZ/xVP92oZJ644yby5B1Gev3ZMLCAqf4G6g4=
-github.com/callingsid/shopping_utils v0.0.0-20200415112043-2feb82ddafc6/go.mod h1:DM8M8fKYETauagQW+HhrUO78dlfjWe5NzwaGjEvI1f4=
+github.com/callingsid/shopping_utils v0.0.0-20200416092202-0775bc3f8a0c h1:e7LImMJbtF66HFkuwcS+EUmlhD938OnUW0+tqNrd/X8=
+github.com/callingsid/shopping_utils v0.0.0-20200416092202-0775bc3f8a0c/go.mod h1:DM8M8fKYETauagQW+HhrUO78dlfjWe5NzwaGjEvI1f4=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
