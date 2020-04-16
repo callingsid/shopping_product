@@ -17,7 +17,7 @@ func startMessageConsumer() {
 	if errors != nil {
 		fmt.Println("The error in the handle is :", errors)
 		logger.Info("failed to get kafka client handle")
-		panic(errors)
+		//panic(errors)
 	}
 
 	signals := make(chan os.Signal, 1)
